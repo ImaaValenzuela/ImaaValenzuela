@@ -1,41 +1,134 @@
-<body>
-  <h1 align="center">Hola, Soy Imanol Valenzuela  <img style="border-radius: 50%;" width="80" src="https://media.tenor.com/bb1KhGIxQb4AAAAd/kotaro-lives-alone-kotaro-lives-alone-anime.gif" alt="" srcset=""> </h1>
-  <h2> Frontend Dev </h2>
-  <p> Estudio Ingenieria en Sistemas y Tecnicatura en Desarrollo de Aplicaciones.
-    Desde 2021 estudio en CoderHouse FullStack Developer, me encuentro en la ultima instancia del Backend. 
-   </p>
+![banner-personal](https://user-images.githubusercontent.com/104401181/229885299-4f9697de-1f9a-4f48-92d3-212edf3f883c.png)
+
+<p align="center">
+I am a web programming student. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+</p>
+
+##
+
+<br>
+
+<br>
+
+
+
+- 🔭 I am currently studying to **become a mobile app developer**.
+
+- 🌱 I’m currently learning **Java**.
+
+- 📫 How to reach me: **imanolvalenzuela03@gmail.com**.
+
+- 🤝 I’m looking for help in learning about **Accessible Websites**.
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+
+<br>
+<br>
+
+## 🏆 Goals
+
+- 📖 Learn the basics of **Java** programming language
+- 🚀 Gain experience in developing frontend applications using **React**.
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+
+
+#
+
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: Imanol Valenzuela](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imanolvalenzuela03@gmail.com)](mailto:imanolvalenzuela03@gmail.com)&nbsp;
+[![Linkedin: Imanol Valenzuela](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanol-valenzuela-eguez/)](https://www.linkedin.com/in/imanol-valenzuela-eguez/)
   
-  <br>
-  <h2>Tecnologias</h2>
-   <br>
-  <p>
-    <div align="center">
-  <img width="400" src="https://media.tenor.com/Mj4ML7jIV9wAAAAC/kotaro-lives-alone-kotaro-lives-alone-anime.gif" align="right">
-    </div>
-  </div>
-  <div>
-    <br>
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010" alt="">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt=""> 
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010" alt="">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/> 
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010" alt=""> 
-    <br>
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=101010" alt="">
-   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=101010" alt="">
-   <br>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010" alt="">
-   <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010" alt="">
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010" alt="">
-   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010" alt="" srcset="">
-   <br><br>
+</div>
+
+<br>
+
+
+
+<div align = "center">
+
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<details open>
+<summary><b>🏄‍♂️ Frontend</b></summary>
+<br>
   
-  </p>
-  <br>
-  </br>
-  <h2>Contacto</h2>
-  <div>
-    <a href= "https://www.linkedin.com/in/imanol-valenzuela-eguez/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/> </a>
-   </div>
-  </body>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
+![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🧰 Backend</b></summary>
+<br>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>🗄️ Database</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+</details>
+
+<details open>
+<summary><b>💻 Software and Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+<br>
+![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+</details>
+
+</div>
+
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ImaaValenzuela&theme=radical&hide_border=true" alt="ImaaValenzuela" width="390"/>
+</p>
+</details>
+
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ImaaValenzuela&theme=discord" alt="ImaaValenzuela" />
+</p>
+</details>
+
+<details>
+<summary><b>📚 Projects</b></summary>
+<br>
+<p align="left">
+</p>
+</details>
+
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ImaaValenzuela&show_icons=true&theme=radical&count_private=true" alt="ImaaValenzuela" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaaValenzuela&layout=compact&theme=radical" alt="ImaaValenzuela" height="165">
+</p>
+</details>
+  
+  
+<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
