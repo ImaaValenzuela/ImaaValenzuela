@@ -1,8 +1,8 @@
 ![banner-personal](https://user-images.githubusercontent.com/104401181/229885299-4f9697de-1f9a-4f48-92d3-212edf3f883c.png)
 
-<p align="center">
-I am a web programming student. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
-</p>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://imanolvalenzuela.netlify.app/)](https://imanolvalenzuela.netlify.app/)
+
 
 ##
 
