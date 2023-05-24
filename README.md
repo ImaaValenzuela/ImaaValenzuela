@@ -124,16 +124,13 @@
 <summary><b>📚 Projects</b></summary>
 <br>
 <p align="left">
+    <div>
+        <a href="sanji.tech" target="_blank" text-decoration="none"><h3> Sanji Tech </h3> </a>
+        <a href="sanji.tech" target="_blank" text-decoration="none"><img src="https://imanolvalenzuela.netlify.app/assets/img/portfolio/sanji.jpg"/></a>
+    </div>
 </p>
 </details>
 
-<details>
-<summary><b>⚡ Github Public Stats</b></summary>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ImaaValenzuela&show_icons=true&theme=radical&count_private=true" alt="ImaaValenzuela" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImaaValenzuela&layout=compact&theme=radical" alt="ImaaValenzuela" height="165">
-</p>
-</details>
   
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
