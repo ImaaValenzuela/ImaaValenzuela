@@ -125,8 +125,8 @@
 <br>
 <p align="left">
     <div>
-        <a href="sanji.tech" target="_blank" text-decoration="none"><h3> Sanji Tech </h3> </a>
-        <a href="sanji.tech" target="_blank" text-decoration="none"><img src="https://imanolvalenzuela.netlify.app/assets/img/portfolio/sanji.jpg"/></a>
+        <a href="[sanji.tech](https://sanji.tech/)" target="_blank" text-decoration="none"><h3> Sanji Tech </h3> </a>
+        <a href="[sanji.tech](https://sanji.tech/)" target="_blank" text-decoration="none"><img src="https://imanolvalenzuela.netlify.app/assets/img/portfolio/sanji.jpg"/></a>
     </div>
 </p>
 </details>
