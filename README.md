@@ -17,32 +17,32 @@
 
 
 
-- 🔭 I am currently studying to **become a mobile app developer**.
+- 🔭 Actualmente estoy estudiando para convertirme en desarrollador de aplicaciones móviles.
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 En este momento estoy aprendiendo Java.
 
-- 📫 How to reach me: **imanolvalenzuela03@gmail.com**.
+- 📫 Cómo contactarme: imanolvalenzuela03@gmail.com.
 
-- 🤝 I’m looking for help in learning about **Accessible Websites**.
+- 🤝 Estoy buscando ayuda para aprender sobre Sitios web accesibles.
 
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
+- 👯 Estoy buscando colaborar en el desarrollo de nuevos proyectos de código abierto.
 
 
 <br>
 <br>
 
-## 🏆 Goals
+## 🏆 Objetivos
 
-- 📖 Learn the basics of **Java** programming language
-- 🚀 Gain experience in developing frontend applications using **React**.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 📖 Aprender los conceptos en profundidad del lenguaje de programación **Java**.
+- 🚀 Adquirir experiencia en el desarrollo de aplicaciones frontend utilizando **React**.
+- 🌐 Mejorar mi conocimiento de las normas de accesibilidad web e incorporarlas en mis proyectos.
 
 
 #
 
 <br>
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">📫 Conecta conmigo</h2>
 
 <div align = "center">
     
@@ -57,7 +57,7 @@
 
 <div align = "center">
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Lenguajes y Herramientas</h2>
 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
@@ -86,7 +86,7 @@
 </details>
 
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b>💻 Software y Herramientas</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -101,7 +101,7 @@
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+<h2 align="center">👨‍💻 Más sobre mí en GitHub</h2>
 
 
 <details>
@@ -121,7 +121,7 @@
 </details>
 
 <details>
-<summary><b>📚 Projects</b></summary>
+<summary><b>📚 Proyectos</b></summary>
 <br>
 <p align="left">
     <div>
@@ -133,4 +133,4 @@
 
   
   
-<h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
+<h6 align="center">Muestra ❤️ dando 🌟 a mis repositorios.</h6>
