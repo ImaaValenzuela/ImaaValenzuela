@@ -1,4 +1,4 @@
-![banner-personal](https://user-images.githubusercontent.com/104401181/229885299-4f9697de-1f9a-4f48-92d3-212edf3f883c.png)
+![banner](https://github.com/ImaaValenzuela/ImaaValenzuela/assets/104401181/01f9b64d-21b8-433a-b09b-613fbc00aacd)
 
 <div align = "center">
     
