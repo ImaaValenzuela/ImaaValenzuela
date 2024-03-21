@@ -27,19 +27,6 @@
 - 🚀 Adquirir experiencia práctica en el desarrollo de aplicaciones **frontend** con **React**.
 - 🌐 Mejorar mi conocimiento y aplicación de las normas de accesibilidad web en los proyectos.
 
-#
-
-<br>
-
-<h2 align="center">📫 Conecta conmigo</h2>
-
-<div align="center">
-    
-[![Gmail: Imanol Valenzuela](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:imanolvalenzuela03@gmail.com)](mailto:imanolvalenzuela03@gmail.com)&nbsp;
-[![Linkedin: Imanol Valenzuela](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanol-valenzuela-eguez/)](https://www.linkedin.com/in/imanol-valenzuela-eguez/)
-  
-</div>
-
 <br>
 
 <div align="center">
@@ -85,6 +72,14 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 </details>
 
+</div>
+
+<h2 align="center">📫 Conecta conmigo</h2>
+
+<div align="center">
+
+[![Linkedin: Imanol Valenzuela](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imanol-valenzuela-eguez/)](https://www.linkedin.com/in/imanol-valenzuela-eguez/)
+  
 </div>
   
 <h6 align="center">Muestra ❤️ dando 🌟 a mis repositorios.</h6>
