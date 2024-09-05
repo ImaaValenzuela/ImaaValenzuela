@@ -54,7 +54,12 @@
 <details open>
 <summary><b>📱 Mobile</b></summary>
 <br>
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+
+</details>
+
+
 <details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
