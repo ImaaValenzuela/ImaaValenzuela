@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 Actualmente estoy estudiando para convertirme en Ingeniero Informático.
+- 🔭 Actualmente estoy estudiando Ingenieria Informatica y Tecnicatura en Desarrollo de Aplicaciones Moviles
 
 - 🌱 En este momento estoy aprendiendo Java y Desarrollo Blockchain.
 
@@ -24,7 +24,6 @@
 
 - 📖 Profundizar en los conceptos del lenguaje de programación **Java**.
 - 🔗 Explorar a fondo los conceptos relacionados con la **Blockchain**.
-- 🚀 Adquirir experiencia práctica en el desarrollo de aplicaciones **frontend** con **React**.
 - 🌐 Mejorar mi conocimiento y aplicación de las normas de accesibilidad web en los proyectos.
 
 <br>
@@ -53,6 +52,10 @@
 </details>
 
 <details open>
+<summary><b>📱 Mobile</b></summary>
+<br>
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
@@ -66,10 +69,12 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)&nbsp;
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 </details>
 
 </div>
