@@ -1,8 +1,10 @@
-![bannerimanol](https://github.com/ImaaValenzuela/ImaaValenzuela/assets/104401181/bed69c50-a5cd-45cc-8510-67d16f46ca37)
-
-
 <div align="center">
-    
+👋 Hey there! I'm a Computer Engineering student with a strong focus on mobile app development and blockchain. 📱🔗 My goal? To deepen my knowledge in Java, Kotlin, and Solidity, while building innovative solutions that make a real impact. 🚀 I'm always exploring new technologies to stay ahead and tackle the challenges of tomorrow!
+
+<br>
+<br>
+<br>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white&link=https://imanolvalenzuela.netlify.app/)](https://imanolvalenzuela.netlify.app/)
   
 </div>
@@ -13,24 +15,24 @@
 
 <br>
 
-- 🔭 Actualmente estoy estudiando Ingenieria Informatica y Tecnicatura en Desarrollo de Aplicaciones Moviles
+- 🔭 I am currently studying Computer Engineering and a Technical Degree in Mobile Application Development.
 
-- 🌱 En este momento estoy aprendiendo Java y Desarrollo Blockchain.
+- 🌱 Right now, I am learning Java, Kotlin, and Solidity.
 
 <br>
 <br>
 
-## 🏆 Objetivos
+## 🏆 Goals
 
-- 📖 Profundizar en los conceptos del lenguaje de programación **Java**.
-- 🔗 Explorar a fondo los conceptos relacionados con la **Blockchain**.
-- 🌐 Mejorar mi conocimiento y aplicación de las normas de accesibilidad web en los proyectos.
+- 📖 Deepen my understanding of the programming language **Java**.
+- 🔗 Explore in-depth the concepts related to **Blockchain**.
+- 🌐 Improve my knowledge in **mobile** development.
 
 <br>
 
 <div align="center">
 
-<h2 align="center">🛠️ Lenguajes y Herramientas</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <details open>
 <summary><b>🏄‍♂️ Frontend</b></summary>
@@ -56,6 +58,7 @@
 <br>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
 </details>
 
@@ -69,7 +72,7 @@
 </details>
 
 <details open>
-<summary><b>💻 Software y Herramientas</b></summary>
+<summary><b>💻 Software and Tools</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -84,7 +87,7 @@
 
 </div>
 
-<h2 align="center">📫 Conecta conmigo</h2>
+<h2 align="center">📫 Connect with me</h2>
 
 <div align="center">
 
@@ -92,4 +95,4 @@
   
 </div>
   
-<h6 align="center">Muestra ❤️ dando 🌟 a mis repositorios.</h6>
+<h6 align="center">Show ❤️ by giving 🌟 to my repositories.</h6>
