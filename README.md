@@ -1,3 +1,6 @@
+
+![bannerimaavalenzuela](https://github.com/user-attachments/assets/3c1c19fa-6d3a-406f-b6c4-3e2c68dfeab5)
+
 <div align="center">
 👋 Hey there! I'm a Computer Engineering student with a strong focus on mobile app development and blockchain. 📱🔗 My goal? To deepen my knowledge in Java, Kotlin, and Solidity, while building innovative solutions that make a real impact. 🚀 I'm always exploring new technologies to stay ahead and tackle the challenges of tomorrow!
 
