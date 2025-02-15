@@ -20,16 +20,16 @@
 
 - 🔭 I am currently studying Computer Engineering and a Technical Degree in Mobile Application Development.
 
-- 🌱 Right now, I am learning Java, Kotlin, and Solidity.
+- 🌱 Right now, I am specializing in Java and Kotlin, while learning React Native and Solidity.
 
 <br>
 <br>
 
 ## 🏆 Goals
 
-- 📖 Deepen my understanding of the programming language **Java**.
+- 📖 Deepen my understanding of Java and Kotlin.
 - 🔗 Explore in-depth the concepts related to **Blockchain**.
-- 🌐 Improve my knowledge in **mobile** development.
+- 🌐 Improve my knowledge in mobile development, including React Native.
 
 <br>
 
