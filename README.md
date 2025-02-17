@@ -87,8 +87,12 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 </details>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImaaValenzuela&layout=compact&theme=shadow_blue)
 
 </div>
+<br>
 
 <h2 align="center">📫 Connect with me</h2>
 
